@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+whisper
+soundfile
+aiofiles
+python-multipart
